@@ -17,6 +17,11 @@
 > [!IMPORTANT]  
 > This repository is a work in progress and represents a complete rewrite of my current infrastructure configuration, with reproducibility, automation, and security practices integrated into the foundation from the beginning.
 
----
+<h1></h1>
 
-<p>Released under the <a href="https://unlicense.org/">Unlicense</a>. All configurations and ideas are free to use, modify, and share. Take what is useful, experiment freely, and have fun building your own infrastructure.</p>
+<div align="center">
+    <img src="https://www.svgrepo.com/show/374150/unlicense.svg" alt="Unlicense" width="32">
+    <p align="left">
+        Released under the <a href="https://unlicense.org/">Unlicense</a>. All configurations and ideas are free to use, modify, and share. Take what is useful, experiment freely, and have fun building your own infrastructure.
+    </p>
+</div>
